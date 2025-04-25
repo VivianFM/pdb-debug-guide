@@ -97,6 +97,6 @@ Use `s` when you want to inspect how a function works. Use `n` when you trust it
 
 ---
 
-## Additional Resources
+## References
 
-- 📖 [Official Python `pdb` Documentation](https://docs.python.org/3/library/pdb.html)
+- [Official Python `pdb` Documentation](https://docs.python.org/3/library/pdb.html)
